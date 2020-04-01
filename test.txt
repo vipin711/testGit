@@ -1,1 +1,9 @@
 this is a test file.
+
+git add file name
+
+git status 
+
+git commit -m "comment" file name
+
+git push -u origin master
